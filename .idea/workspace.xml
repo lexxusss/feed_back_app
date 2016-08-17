@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02298eff-14f5-4ab2-b51c-eb9520624248" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dayside" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/055534368271.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/0d721cf193c7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/0db6c2ff902a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/0f7ba200f53b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/32f796dc9422.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/5ceb146cd99f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/644329abc51f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/932b41b39097.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/93a057f407fe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/958aad02e159.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/95b12429169f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/9f77ab850cf9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/b41285d18543.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/d193fc279fdc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/dc4da4cb3802.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/user-default.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/beeJee.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/alex.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bee_jee.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/AppController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/AppException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/AppModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/HttpRequest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/PdoAdapter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/db.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/IndexController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/LoginController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helpers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/Feedback.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/File.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/dist/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/grunt/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/grunt/bs-commonjs-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/grunt/bs-glyphicons-data-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/grunt/bs-lessdoc-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/grunt/bs-raw-files-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/grunt/change-version.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/grunt/configBridge.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/grunt/npm-shrinkwrap.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/grunt/sauce_browsers.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/js/affix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/js/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/js/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/js/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/js/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/js/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/js/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/js/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/js/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/js/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/js/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/js/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/badges.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/breadcrumbs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/button-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/close.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/code.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/component-animations.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/dropdowns.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/glyphicons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/input-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/jumbotron.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/media.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/background-variant.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/border-radius.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/center-block.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/clearfix.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/gradients.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/grid-framework.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/hide-text.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/image.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/nav-divider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/nav-vertical-align.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/opacity.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/progress-bar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/reset-filter.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/reset-text.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/resize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/responsive-visibility.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/size.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/tab-focus.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/table-row.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/text-emphasis.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/text-overflow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/mixins/vendor-prefixes.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/modals.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/navs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/normalize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/pager.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/popovers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/print.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/progress-bars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/responsive-embed.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/responsive-utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/scaffolding.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/thumbnails.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/type.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/less/wells.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/index/_list_for_admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/index/_list_for_user.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/index/_modals.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/index/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/layout/main_layout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Тестовое_задание.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/application.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/application.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/code.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/code.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/css.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/css.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/db.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/db.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/directory.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/directory.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/doc.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/doc.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/file.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/file.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/film.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/film.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/flash.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/flash.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/folder_open.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/folder_open.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/html.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/html.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/java.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/java.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/linux.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/linux.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/music.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/music.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/pdf.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/pdf.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/php.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/php.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/picture.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/picture.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/ppt.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/ppt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/project.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/project.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/psd.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/psd.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/ruby.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/ruby.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/script.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/script.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/spinner.gif" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/spinner.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/txt.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/txt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/xls.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/xls.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/zip.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/icons/zip.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/apple/bg.jpg" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/apple/bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/apple/d.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/apple/d.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/apple/dot_for_ie.gif" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/apple/dot_for_ie.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/apple/throbber.gif" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/apple/throbber.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/classic/d.gif" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/classic/d.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/classic/d.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/classic/d.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/classic/dot_for_ie.gif" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/classic/dot_for_ie.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/classic/throbber.gif" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/classic/throbber.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/default-rtl/d.gif" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/default-rtl/d.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/default-rtl/d.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/default-rtl/d.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/default-rtl/dots.gif" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/default-rtl/dots.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/default-rtl/throbber.gif" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/default-rtl/throbber.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/default/d-dark.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/default/d-dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/default/d.gif" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/default/d.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/default/d.png" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/default/d.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/default/throbber.gif" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/default/throbber.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/pixlr/Untitled.jpg" afterPath="$PROJECT_DIR$/dayside/plugins/pixlr/Untitled.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/pixlr/test.jpg" afterPath="$PROJECT_DIR$/dayside/plugins/pixlr/test.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/jupload/jupload.jar" afterPath="$PROJECT_DIR$/dayside/server/assets/jupload/jupload.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_background.png" afterPath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_hex.png" afterPath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_hex.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_hsb_b.png" afterPath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_hsb_b.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_hsb_h.png" afterPath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_hsb_h.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_hsb_s.png" afterPath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_hsb_s.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_indic.gif" afterPath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_indic.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_overlay.png" afterPath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_overlay.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_rgb_a.png" afterPath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_rgb_a.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_rgb_b.png" afterPath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_rgb_b.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_rgb_g.png" afterPath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_rgb_g.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_rgb_r.png" afterPath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_rgb_r.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_select.gif" afterPath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_select.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_submit.png" afterPath="$PROJECT_DIR$/dayside/server/assets/teacss/images/colorpicker_submit.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/teacss/images/teacss_ui_icon.png" afterPath="$PROJECT_DIR$/dayside/server/assets/teacss/images/teacss_ui_icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/teacss/images/ui-icons_222222_256x240.png" afterPath="$PROJECT_DIR$/dayside/server/assets/teacss/images/ui-icons_222222_256x240.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/teacss/images/ui-icons_2e83ff_256x240.png" afterPath="$PROJECT_DIR$/dayside/server/assets/teacss/images/ui-icons_2e83ff_256x240.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/teacss/images/ui-icons_454545_256x240.png" afterPath="$PROJECT_DIR$/dayside/server/assets/teacss/images/ui-icons_454545_256x240.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/teacss/images/ui-icons_888888_256x240.png" afterPath="$PROJECT_DIR$/dayside/server/assets/teacss/images/ui-icons_888888_256x240.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/teacss/images/ui-icons_cd0a0a_256x240.png" afterPath="$PROJECT_DIR$/dayside/server/assets/teacss/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/todo_menu.png" afterPath="$PROJECT_DIR$/dayside/todo_menu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/.gitignore" afterPath="$PROJECT_DIR$/dayside/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/build.php" afterPath="$PROJECT_DIR$/dayside/client/build.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/dayside.css" afterPath="$PROJECT_DIR$/dayside/client/dayside.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/dayside.js" afterPath="$PROJECT_DIR$/dayside/client/dayside.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/dialog/dialog.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/dialog/dialog.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/dialog/dialog.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/dialog/dialog.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/fold/brace-fold.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/fold/brace-fold.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/fold/comment-fold.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/fold/comment-fold.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/fold/foldcode.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/fold/foldcode.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/fold/foldgutter.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/fold/foldgutter.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/fold/foldgutter.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/fold/foldgutter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/fold/indent-fold.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/fold/indent-fold.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/fold/xml-fold.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/fold/xml-fold.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/hint/anyword-hint.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/hint/anyword-hint.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/hint/css-hint.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/hint/css-hint.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/hint/html-hint.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/hint/html-hint.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/hint/javascript-hint.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/hint/javascript-hint.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/hint/pig-hint.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/hint/pig-hint.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/hint/python-hint.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/hint/python-hint.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/hint/show-hint.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/hint/show-hint.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/hint/show-hint.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/hint/show-hint.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/hint/sql-hint.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/hint/sql-hint.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/hint/xml-hint.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/hint/xml-hint.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/lint/coffeescript-lint.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/lint/coffeescript-lint.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/lint/css-lint.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/lint/css-lint.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/lint/javascript-lint.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/lint/javascript-lint.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/lint/json-lint.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/lint/json-lint.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/lint/lint.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/lint/lint.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/lint/lint.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/lint/lint.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/mode/loadmode.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/mode/loadmode.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/mode/multiplex.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/mode/multiplex.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/mode/multiplex_test.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/mode/multiplex_test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/mode/overlay.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/mode/overlay.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/runmode/colorize.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/runmode/colorize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/runmode/runmode-standalone.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/runmode/runmode-standalone.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/runmode/runmode.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/runmode/runmode.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/runmode/runmode.node.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/runmode/runmode.node.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/search/match-highlighter.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/search/match-highlighter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/search/search.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/search/search.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/search/searchcursor.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/search/searchcursor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/tern/tern.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/tern/tern.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/tern/tern.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/tern/tern.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/tern/worker.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/addon/tern/worker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/codemirror.tea" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/codemirror.tea" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/lib/codemirror.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/lib/codemirror.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/lib/codemirror.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/lib/codemirror.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/clike/clike.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/clike/clike.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/clike/index.html" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/clike/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/clike/scala.html" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/clike/scala.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/css/css.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/css/css.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/css/index.html" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/css/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/css/less.html" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/css/less.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/css/less_test.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/css/less_test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/css/scss.html" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/css/scss.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/css/scss_test.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/css/scss_test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/css/test.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/css/test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/htmlmixed/htmlmixed.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/htmlmixed/htmlmixed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/htmlmixed/index.html" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/htmlmixed/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/javascript/index.html" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/javascript/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/javascript/javascript.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/javascript/javascript.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/javascript/test.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/javascript/test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/javascript/typescript.html" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/javascript/typescript.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/liquid/liquid.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/liquid/liquid.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/liquid/liquid.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/liquid/liquid.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/php/index.html" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/php/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/php/php.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/php/php.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/teacss/index.html" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/teacss/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/teacss/teacss.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/teacss/teacss.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/teacss/teacss.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/teacss/teacss.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/xml/index.html" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/xml/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/xml/xml.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/xml/xml.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/yaml/index.html" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/yaml/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/yaml/yaml.js" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/mode/yaml/yaml.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/3024-day.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/3024-day.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/3024-night.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/3024-night.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/ambiance-mobile.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/ambiance-mobile.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/ambiance.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/ambiance.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/base16-dark.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/base16-dark.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/base16-light.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/base16-light.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/blackboard.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/blackboard.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/cobalt.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/cobalt.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/eclipse.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/eclipse.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/elegant.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/elegant.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/erlang-dark.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/erlang-dark.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/lesser-dark.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/lesser-dark.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/mbo.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/mbo.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/midnight.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/midnight.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/monokai.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/monokai.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/neat.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/neat.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/night.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/night.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/paraiso-dark.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/paraiso-dark.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/paraiso-light.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/paraiso-light.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/pastel-on-dark.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/pastel-on-dark.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/rubyblue.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/rubyblue.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/solarized.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/solarized.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/the-matrix.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/the-matrix.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/tomorrow-night-eighties.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/tomorrow-night-eighties.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/twilight.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/twilight.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/vibrant-ink.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/vibrant-ink.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/xq-dark.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/xq-dark.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/xq-light.css" afterPath="$PROJECT_DIR$/dayside/client/lib/codemirror/theme/xq-light.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jquery.ui.plupload.js" afterPath="$PROJECT_DIR$/dayside/client/lib/jquery.ui.plupload.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree.storage.js" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree.storage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/jquery.cookie.js" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/jquery.cookie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/jquery.hotkeys.js" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/jquery.hotkeys.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/jquery.jstree.js" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/jquery.jstree.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/apple/style.css" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/apple/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/classic/style.css" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/classic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/default-rtl/style.css" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/default-rtl/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/default/style.css" afterPath="$PROJECT_DIR$/dayside/client/lib/jstree/themes/default/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/plupload.full.min.js" afterPath="$PROJECT_DIR$/dayside/client/lib/plupload.full.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/lib/require.js" afterPath="$PROJECT_DIR$/dayside/client/lib/require.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/makefile.tea" afterPath="$PROJECT_DIR$/dayside/client/makefile.tea" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/src/app.js" afterPath="$PROJECT_DIR$/dayside/client/src/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/src/controls/codeTab.js" afterPath="$PROJECT_DIR$/dayside/client/src/controls/codeTab.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/src/controls/editorPanel.js" afterPath="$PROJECT_DIR$/dayside/client/src/controls/editorPanel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/src/controls/filePanel.js" afterPath="$PROJECT_DIR$/dayside/client/src/controls/filePanel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/src/controls/optionsButton.js" afterPath="$PROJECT_DIR$/dayside/client/src/controls/optionsButton.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/src/controls/uploadDialog.js" afterPath="$PROJECT_DIR$/dayside/client/src/controls/uploadDialog.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/src/fileApi.js" afterPath="$PROJECT_DIR$/dayside/client/src/fileApi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/client/src/style.tea" afterPath="$PROJECT_DIR$/dayside/client/src/style.tea" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/index.php" afterPath="$PROJECT_DIR$/dayside/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/autoload/autoload.js" afterPath="$PROJECT_DIR$/dayside/plugins/autoload/autoload.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/autoload/index.htm" afterPath="$PROJECT_DIR$/dayside/plugins/autoload/index.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/autoload/test_root/autoload.js" afterPath="$PROJECT_DIR$/dayside/plugins/autoload/test_root/autoload.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/code_controls/code_controls.css" afterPath="$PROJECT_DIR$/dayside/plugins/code_controls/code_controls.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/code_controls/code_controls.js" afterPath="$PROJECT_DIR$/dayside/plugins/code_controls/code_controls.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/code_controls/controls.js" afterPath="$PROJECT_DIR$/dayside/plugins/code_controls/controls.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/code_controls/index.htm" afterPath="$PROJECT_DIR$/dayside/plugins/code_controls/index.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/code_controls/paddingControl.js" afterPath="$PROJECT_DIR$/dayside/plugins/code_controls/paddingControl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/code_controls/test.tea" afterPath="$PROJECT_DIR$/dayside/plugins/code_controls/test.tea" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/collaborate/collaborate.js" afterPath="$PROJECT_DIR$/dayside/plugins/collaborate/collaborate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/collaborate/makefile.tea" afterPath="$PROJECT_DIR$/dayside/plugins/collaborate/makefile.tea" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/console/index.htm" afterPath="$PROJECT_DIR$/dayside/plugins/console/index.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/git_commit/git_commit.js" afterPath="$PROJECT_DIR$/dayside/plugins/git_commit/git_commit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/git_commit/index.htm" afterPath="$PROJECT_DIR$/dayside/plugins/git_commit/index.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/git_commit/lib/controller.php" afterPath="$PROJECT_DIR$/dayside/plugins/git_commit/lib/controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/git_commit/lib/git.php" afterPath="$PROJECT_DIR$/dayside/plugins/git_commit/lib/git.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/git_commit/lib/template.php" afterPath="$PROJECT_DIR$/dayside/plugins/git_commit/lib/template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/live_preview/blank.htm" afterPath="$PROJECT_DIR$/dayside/plugins/live_preview/blank.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/live_preview/index.htm" afterPath="$PROJECT_DIR$/dayside/plugins/live_preview/index.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/live_preview/live_preview.js" afterPath="$PROJECT_DIR$/dayside/plugins/live_preview/live_preview.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/live_preview/test_root/index.htm" afterPath="$PROJECT_DIR$/dayside/plugins/live_preview/test_root/index.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/live_preview/test_root/test.css" afterPath="$PROJECT_DIR$/dayside/plugins/live_preview/test_root/test.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/live_preview/test_root/test.tea" afterPath="$PROJECT_DIR$/dayside/plugins/live_preview/test_root/test.tea" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/node_runner/index.htm" afterPath="$PROJECT_DIR$/dayside/plugins/node_runner/index.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/node_runner/nodeapp/package.json" afterPath="$PROJECT_DIR$/dayside/plugins/node_runner/nodeapp/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/pixlr/index.htm" afterPath="$PROJECT_DIR$/dayside/plugins/pixlr/index.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/pixlr/pixlr.js" afterPath="$PROJECT_DIR$/dayside/plugins/pixlr/pixlr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/realtime/index.htm" afterPath="$PROJECT_DIR$/dayside/plugins/realtime/index.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/realtime/server/SocketServer.php" afterPath="$PROJECT_DIR$/dayside/plugins/realtime/server/SocketServer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/ExceptionInterface.php" afterPath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/ExceptionInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/InvalidArgumentException.php" afterPath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/InvalidArgumentException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/LogicException.php" afterPath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/LogicException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/ProcessFailedException.php" afterPath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/ProcessFailedException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/ProcessTimedOutException.php" afterPath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/ProcessTimedOutException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/RuntimeException.php" afterPath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/RuntimeException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/ExecutableFinder.php" afterPath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/ExecutableFinder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/PhpExecutableFinder.php" afterPath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/PhpExecutableFinder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/PhpProcess.php" afterPath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/PhpProcess.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/Process.php" afterPath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/Process.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/ProcessBuilder.php" afterPath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/ProcessBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/ProcessPipes.php" afterPath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/ProcessPipes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/ProcessUtils.php" afterPath="$PROJECT_DIR$/dayside/plugins/realtime/server/Symfony/Component/Process/ProcessUtils.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/realtime/server/server.pid" afterPath="$PROJECT_DIR$/dayside/plugins/realtime/server/server.pid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/tern/index.php" afterPath="$PROJECT_DIR$/dayside/plugins/tern/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/tern/lib/tern.css" afterPath="$PROJECT_DIR$/dayside/plugins/tern/lib/tern.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/tern/lib/tern.js" afterPath="$PROJECT_DIR$/dayside/plugins/tern/lib/tern.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/tern/lib/worker.js" afterPath="$PROJECT_DIR$/dayside/plugins/tern/lib/worker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/tern/makefile.tea" afterPath="$PROJECT_DIR$/dayside/plugins/tern/makefile.tea" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/tern/tern.css" afterPath="$PROJECT_DIR$/dayside/plugins/tern/tern.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/tern/tern.js" afterPath="$PROJECT_DIR$/dayside/plugins/tern/tern.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/xdebug/index.htm" afterPath="$PROJECT_DIR$/dayside/plugins/xdebug/index.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/xdebug/proxy/proxy.php" afterPath="$PROJECT_DIR$/dayside/plugins/xdebug/proxy/proxy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/xdebug/xdebug.css" afterPath="$PROJECT_DIR$/dayside/plugins/xdebug/xdebug.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/plugins/xdebug/xdebug.js" afterPath="$PROJECT_DIR$/dayside/plugins/xdebug/xdebug.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/api.php" afterPath="$PROJECT_DIR$/dayside/server/api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/index.tea" afterPath="$PROJECT_DIR$/dayside/server/assets/index.tea" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/teacss/teacss-ui.css" afterPath="$PROJECT_DIR$/dayside/server/assets/teacss/teacss-ui.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/teacss/teacss-ui.js" afterPath="$PROJECT_DIR$/dayside/server/assets/teacss/teacss-ui.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/teacss/teacss.js" afterPath="$PROJECT_DIR$/dayside/server/assets/teacss/teacss.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/assets/teacss/teacss.php" afterPath="$PROJECT_DIR$/dayside/server/assets/teacss/teacss.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayside/server/demo.php" afterPath="$PROJECT_DIR$/dayside/server/demo.php" />
+    </list>
+    <ignored path="beeJee.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="beeJee" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="IndexController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controller/IndexController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+              <folding>
+                <element signature="e#30#59#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppModel.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/components/AppModel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="85" column="27" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
+              <folding>
+                <marker date="1471428007000" expanded="true" signature="1261:1275" ph="SELECT * FRO... ${self::$table}" />
+                <marker date="1471428007000" expanded="true" signature="1589:1602" ph="SELECT * FRO... ${self::$table}" />
+                <marker date="1471428007000" expanded="true" signature="2176:2190" ph="SELECT * FRO... ${self::$table}" />
+                <marker date="1471428007000" expanded="true" signature="2176:2216" ph="SELECT * FRO... ${self::$table}" />
+                <marker date="1471428007000" expanded="true" signature="2176:2217" ph="SELECT * FRO... ${self::$table}" />
+                <marker date="1471428007000" expanded="true" signature="2176:2218" ph="SELECT * FRO... ${self::$table}" />
+                <marker date="1471428007000" expanded="true" signature="2404:2448" ph="DELETE FROM " />
+                <marker date="1471428007000" expanded="true" signature="2404:2452" ph="DELETE FROM " />
+                <marker date="1471428007000" expanded="true" signature="2404:2496" ph="DELETE FROM " />
+                <marker date="1471428007000" expanded="true" signature="2968:3055" ph="INSERT INTO ${self::$table}... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_list_for_admin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/index/_list_for_admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="76" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="695">
+              <caret line="80" column="11" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Feedback.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/Feedback.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/index/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpRequest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/HttpRequest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="431">
+              <caret line="97" column="8" selection-start-line="97" selection-start-column="8" selection-end-line="97" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_modals.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/index/_modals.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="83" column="92" selection-start-line="83" selection-start-column="79" selection-end-line="83" selection-end-column="92" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_list_for_user.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/index/_list_for_user.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="61" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Тестовое_задание.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Тестовое_задание.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="65" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/components/AppException.php" />
+        <option value="$PROJECT_DIR$/components/PdoAdapter.php" />
+        <option value="$PROJECT_DIR$/model/FeedBack.php" />
+        <option value="$PROJECT_DIR$/src/js/jquery.min.js" />
+        <option value="$PROJECT_DIR$/components/AppController.php" />
+        <option value="$PROJECT_DIR$/application.php" />
+        <option value="$PROJECT_DIR$/view/layout/main_layout.php" />
+        <option value="$PROJECT_DIR$/model/User.php" />
+        <option value="$PROJECT_DIR$/controller/LoginController.php" />
+        <option value="$PROJECT_DIR$/Тестовое_задание.txt" />
+        <option value="$PROJECT_DIR$/model/File.php" />
+        <option value="$PROJECT_DIR$/model/Feedback.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/src/css/main.css" />
+        <option value="$PROJECT_DIR$/view/index/_list_for_user.php" />
+        <option value="$PROJECT_DIR$/view/index/_modals.php" />
+        <option value="$PROJECT_DIR$/view/index/index.php" />
+        <option value="$PROJECT_DIR$/components/HttpRequest.php" />
+        <option value="$PROJECT_DIR$/config/db.php" />
+        <option value="$PROJECT_DIR$/controller/IndexController.php" />
+        <option value="$PROJECT_DIR$/view/index/_list_for_admin.php" />
+        <option value="$PROJECT_DIR$/src/js/main.js" />
+        <option value="$PROJECT_DIR$/components/AppModel.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="977" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beeJee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beeJee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beeJee" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beeJee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beeJee" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beeJee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beeJee" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beeJee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beeJee" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beeJee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beeJee" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02298eff-14f5-4ab2-b51c-eb9520624248" name="Default" comment="" />
+      <created>1471268313779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1471268313779</updated>
+      <workItem from="1471268315053" duration="58612000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="58612000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="977" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25239617" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/authenticate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="153" column="59" selection-start-line="153" selection-start-column="49" selection-end-line="153" selection-end-column="59" />
+          <folding>
+            <marker date="1471109441000" expanded="true" signature="4752:4801" ph="..." />
+            <marker date="1471109441000" expanded="true" signature="4856:4929" ph="..." />
+            <marker date="1471109441000" expanded="true" signature="5073:5087" ph="..." />
+            <marker date="1471109441000" expanded="true" signature="5243:5257" ph="..." />
+            <marker date="1471109441000" expanded="true" signature="5566:5645" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/AppException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="198" column="9" selection-start-line="198" selection-start-column="9" selection-end-line="198" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="662" column="4" selection-start-line="662" selection-start-column="4" selection-end-line="662" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/PDO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="653" column="9" selection-start-line="653" selection-start-column="9" selection-end-line="653" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/AppController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/layout/main_layout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+          <folding>
+            <marker date="1471359388000" expanded="true" signature="887:1107" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dayside/server/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_defines.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="887" column="9" selection-start-line="887" selection-start-column="9" selection-end-line="887" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/File.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="155" column="22" selection-start-line="155" selection-start-column="22" selection-end-line="155" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/index/_list_for_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="61" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Тестовое_задание.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="65" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/index/_modals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="83" column="92" selection-start-line="83" selection-start-column="79" selection-end-line="83" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/PdoAdapter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/HttpRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="97" column="8" selection-start-line="97" selection-start-column="8" selection-end-line="97" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/index/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding>
+            <element signature="e#30#59#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/index/_list_for_admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="76" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/Feedback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="695">
+          <caret line="80" column="11" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/AppModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="85" column="27" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
+          <folding>
+            <marker date="1471428007000" expanded="true" signature="1261:1275" ph="SELECT * FRO... ${self::$table}" />
+            <marker date="1471428007000" expanded="true" signature="1589:1602" ph="SELECT * FRO... ${self::$table}" />
+            <marker date="1471428007000" expanded="true" signature="2176:2190" ph="SELECT * FRO... ${self::$table}" />
+            <marker date="1471428007000" expanded="true" signature="2176:2216" ph="SELECT * FRO... ${self::$table}" />
+            <marker date="1471428007000" expanded="true" signature="2176:2217" ph="SELECT * FRO... ${self::$table}" />
+            <marker date="1471428007000" expanded="true" signature="2176:2218" ph="SELECT * FRO... ${self::$table}" />
+            <marker date="1471428007000" expanded="true" signature="2404:2448" ph="DELETE FROM " />
+            <marker date="1471428007000" expanded="true" signature="2404:2452" ph="DELETE FROM " />
+            <marker date="1471428007000" expanded="true" signature="2404:2496" ph="DELETE FROM " />
+            <marker date="1471428007000" expanded="true" signature="2968:3055" ph="INSERT INTO ${self::$table}... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
