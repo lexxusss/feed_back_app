@@ -1,0 +1,102 @@
+[
+    {
+        "name": "tightenco/collect",
+        "version": "v5.5.16",
+        "version_normalized": "5.5.16.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/tightenco/collect.git",
+            "reference": "b4f148060842eeebb08edb005978360767af3630"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/tightenco/collect/zipball/b4f148060842eeebb08edb005978360767af3630",
+            "reference": "b4f148060842eeebb08edb005978360767af3630",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=7.0"
+        },
+        "require-dev": {
+            "mockery/mockery": "~1.0",
+            "phpunit/phpunit": "~6.0"
+        },
+        "time": "2017-10-16T16:11:46+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "src/Illuminate/Support/helpers.php"
+            ],
+            "psr-4": {
+                "Illuminate\\": "src/Illuminate"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Taylor Otwell",
+                "email": "taylorotwell@gmail.com"
+            }
+        ],
+        "description": "Collect - Illuminate Collections as a separate package.",
+        "keywords": [
+            "collection",
+            "laravel"
+        ]
+    },
+    {
+        "name": "usmanhalalit/strana",
+        "version": "1.x-dev",
+        "version_normalized": "1.9999999.9999999.9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/usmanhalalit/strana.git",
+            "reference": "3e5e7aaa79e67d08539ba9c3cbb3d3d6e572c66e"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/usmanhalalit/strana/zipball/3e5e7aaa79e67d08539ba9c3cbb3d3d6e572c66e",
+            "reference": "3e5e7aaa79e67d08539ba9c3cbb3d3d6e572c66e",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "require-dev": {
+            "doctrine/dbal": "2.3.4",
+            "illuminate/database": "4.1.*@dev",
+            "phpunit/phpunit": "3.7.*",
+            "usmanhalalit/pixie": "1.*@dev"
+        },
+        "time": "2013-11-13T18:38:22+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-0": {
+                "Strana": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Muhammad Usman",
+                "email": "hi@usman.it",
+                "role": "Developer"
+            }
+        ],
+        "description": "Pagination library for PHP, framework agnostic, with built-in adapters for Doctrine, Eloquent, Pixie and PHP Array.",
+        "homepage": "https://github.com/usmanhalalit/strana",
+        "keywords": [
+            "page",
+            "pagination",
+            "paginator"
+        ]
+    }
+]

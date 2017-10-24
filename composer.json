@@ -1,5 +1,11 @@
 {
+    "autoload": {
+        "classmap": [
+            ""
+        ]
+    },
     "require": {
-        "twbs/bootstrap": "^3.3"
+        "tightenco/collect": "^5.5",
+        "usmanhalalit/strana": "1.*@dev"
     }
 }

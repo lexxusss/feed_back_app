@@ -9,9 +9,6 @@ class Application
 {
     public function run()
     {
-        self::includeAll();
-
-
         $request = Application::request();
 
         $controller = 'controller\IndexController';
@@ -39,14 +36,6 @@ class Application
         }
     }
 
-    public static function includeAll()
-    {
-        self::includeDir('components');
-        self::includeDir('model');
-        self::includeDir('controller');
-        self::includeDir('view');
-    }
-
     /**
      * get PDO-instance
      * 
@@ -65,13 +54,5 @@ class Application
     public static function request()
     {
         return HttpRequest::getInstance();
-    }
-
-    private static function includeDir($dir)
-    {
-        foreach (glob("{$dir}/*.php") as $filename)
-        {
-            include_once $filename;
-        }
     }
 }

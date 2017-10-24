@@ -2,9 +2,8 @@
 
 use main\Application;
 
-include 'helpers.php';
-
-require_once 'application.php';
+require_once 'helpers.php';
+require_once 'vendor/autoload.php';
 
 $app = new Application();
 

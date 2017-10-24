@@ -26,13 +26,15 @@ SET time_zone = "+00:00";
 -- Table structure for table `feedback`
 --
 
+DROP TABLE IF EXISTS `feedback`;
+
 CREATE TABLE `feedback` (
   `id` int(11) NOT NULL,
   `name` varchar(255) NOT NULL,
   `email` varchar(255) NOT NULL,
   `comment` text NOT NULL,
   `image` varchar(255) NOT NULL DEFAULT '/src/uploads/user-default.jpg',
-  `status` varchar(255) DEFAULT 'reviewing',
+  `status` varchar(255) DEFAULT 'todo',
   `modified` tinyint(1) DEFAULT '0',
   `updated` datetime DEFAULT CURRENT_TIMESTAMP
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
@@ -40,20 +42,13 @@ CREATE TABLE `feedback` (
 --
 -- Dumping data for table `feedback`
 --
-
-INSERT INTO `feedback` (`id`, `name`, `email`, `comment`, `image`, `status`, `modified`, `updated`) VALUES
-(1, 'LeXXuSSS', 'ffd@gm.re', 'Test', '/src/uploads/5ceb146cd99f.png', 'reviewing', 1, '2016-08-15 18:48:48'),
-(2, 'Alex', 'alexxx.tsyk@gmail.com', 'Ala bala. This is second feed back. Ala bala. This is second feed back. Ala bala. This is second feed back. Ala bala. This is second feed back.', '/src/uploads/9f77ab850cf9.png', 'reviewing', 1, '2016-08-15 18:48:48'),
-(3, 'Alex', 'alexxx.tsyk@gmail.com', 'ЖГШГШГШШШШ', '/src/uploads/user-default.jpg', 'reviewing', 0, '2016-08-16 09:26:18'),
-(4, 'feewdf', 'alexxx.tsyk@gmail.com', 'KHGFKGHVEdhjveblcjkhGlchjge', '/src/uploads/dc4da4cb3802.png', 'accepted', 1, '2016-08-16 09:26:43'),
-(5, 'Arina', 'sadasdf@uhj.com', 'ТОРЩОЦВщшожщушвожщуцвц', '/src/uploads/user-default.jpg', 'accepted', 1, '2016-08-16 21:06:33'),
-(6, 'Alex!!!', 'alexxx.tsyk@gmail.com', 'уцвауцватзщукцльтадуцжьэжуцдбавуцвауцаука', '/src/uploads/95b12429169f.png', 'reviewing', 0, '2016-08-16 21:07:04');
-
 -- --------------------------------------------------------
 
 --
 -- Table structure for table `user`
 --
+
+DROP TABLE IF EXISTS `user`;
 
 CREATE TABLE `user` (
   `id` int(11) NOT NULL,
@@ -67,7 +62,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `name`, `pass`, `role`) VALUES
-(1, 'Alex', '123455', 'user'),
+(1, 'Alex', '123', 'user'),
 (2, 'admin', '123', 'admin');
 
 --

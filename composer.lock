@@ -4,30 +4,36 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b9fae77fc4bd1f6f62c04e9ee6f0c0df",
-    "content-hash": "98bbb170c95027a5a9ec5bfeb6b52e6d",
+    "content-hash": "1e0b393e0204214a720fe07af9f5f582",
     "packages": [
         {
-            "name": "twbs/bootstrap",
-            "version": "v3.3.7",
+            "name": "tightenco/collect",
+            "version": "v5.5.16",
             "source": {
                 "type": "git",
-                "url": "https://github.com/twbs/bootstrap.git",
-                "reference": "0b9c4a4007c44201dce9a6cc1a38407005c26c86"
+                "url": "https://github.com/tightenco/collect.git",
+                "reference": "b4f148060842eeebb08edb005978360767af3630"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twbs/bootstrap/zipball/0b9c4a4007c44201dce9a6cc1a38407005c26c86",
-                "reference": "0b9c4a4007c44201dce9a6cc1a38407005c26c86",
+                "url": "https://api.github.com/repos/tightenco/collect/zipball/b4f148060842eeebb08edb005978360767af3630",
+                "reference": "b4f148060842eeebb08edb005978360767af3630",
                 "shasum": ""
             },
-            "replace": {
-                "twitter/bootstrap": "self.version"
+            "require": {
+                "php": ">=7.0"
+            },
+            "require-dev": {
+                "mockery/mockery": "~1.0",
+                "phpunit/phpunit": "~6.0"
             },
             "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "3.3.x-dev"
+            "autoload": {
+                "files": [
+                    "src/Illuminate/Support/helpers.php"
+                ],
+                "psr-4": {
+                    "Illuminate\\": "src/Illuminate"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -36,33 +42,73 @@
             ],
             "authors": [
                 {
-                    "name": "Jacob Thornton",
-                    "email": "jacobthornton@gmail.com"
-                },
-                {
-                    "name": "Mark Otto",
-                    "email": "markdotto@gmail.com"
+                    "name": "Taylor Otwell",
+                    "email": "taylorotwell@gmail.com"
                 }
             ],
-            "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
-            "homepage": "http://getbootstrap.com",
+            "description": "Collect - Illuminate Collections as a separate package.",
             "keywords": [
-                "JS",
-                "css",
-                "framework",
-                "front-end",
-                "less",
-                "mobile-first",
-                "responsive",
-                "web"
+                "collection",
+                "laravel"
             ],
-            "time": "2016-07-25 15:51:55"
+            "time": "2017-10-16T16:11:46+00:00"
+        },
+        {
+            "name": "usmanhalalit/strana",
+            "version": "1.x-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/usmanhalalit/strana.git",
+                "reference": "3e5e7aaa79e67d08539ba9c3cbb3d3d6e572c66e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/usmanhalalit/strana/zipball/3e5e7aaa79e67d08539ba9c3cbb3d3d6e572c66e",
+                "reference": "3e5e7aaa79e67d08539ba9c3cbb3d3d6e572c66e",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "require-dev": {
+                "doctrine/dbal": "2.3.4",
+                "illuminate/database": "4.1.*@dev",
+                "phpunit/phpunit": "3.7.*",
+                "usmanhalalit/pixie": "1.*@dev"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Strana": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Muhammad Usman",
+                    "email": "hi@usman.it",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Pagination library for PHP, framework agnostic, with built-in adapters for Doctrine, Eloquent, Pixie and PHP Array.",
+            "homepage": "https://github.com/usmanhalalit/strana",
+            "keywords": [
+                "page",
+                "pagination",
+                "paginator"
+            ],
+            "time": "2013-11-13T18:38:22+00:00"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {
+        "usmanhalalit/strana": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],

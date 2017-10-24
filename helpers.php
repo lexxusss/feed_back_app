@@ -558,3 +558,25 @@ function rmdir_recursive($dir) {
     rmdir($dir);
 }
 /*=== /Remove directory recursively ===*/
+
+if (!function_exists('request')) {
+    function request() {
+        return \main\Application::request();
+    }
+}
+
+if (!function_exists('render')) {
+    function render($file = 'index', $params = array()) {
+        $path = getcwd() . '/src/view/' . $file . '.php';
+
+        echo \components\AppController::getContent($path, $params);
+    }
+}
+
+function includeDir($dir)
+{
+    foreach (glob("{$dir}/*.php") as $filename)
+    {
+        include_once $filename;
+    }
+}
